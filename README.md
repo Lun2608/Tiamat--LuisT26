@@ -1,4 +1,4 @@
-![Texto Alternativo](https://github.com/Lun2608/Tiamat--LuisT26/blob/9e75ebc0d0d68f6fc3dd95d1262aabdcecc1a719/capa%20tiamat.pdf)
+![Imagem](capa_tiamat.png)
 
 
  **Aluno:** Luis Navarro Erbetta
