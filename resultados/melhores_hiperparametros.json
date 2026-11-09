@@ -1,0 +1,47 @@
+{
+  "k-NN": {
+    "MCC_CV_optuna": 0.715488708771645,
+    "num_vizinhos": 17,
+    "pesos": "distance",
+    "potencia_minkowski": 1.1627338963501483,
+    "reducao": "rfe",
+    "normalizacao": "padrao",
+    "rfe_num_atributos": 36,
+    "rfe_passo": 3
+  },
+  "Regressão logística": {
+    "MCC_CV_optuna": 0.7017534324418166,
+    "C": 1.8771549657422792,
+    "peso_classes": null,
+    "reducao": "variancia",
+    "limiar_variancia": 0.00023499379223229,
+    "normalizacao": "padrao"
+  },
+  "SVM": {
+    "MCC_CV_optuna": 0.737991122488167,
+    "kernel": "rbf",
+    "C": 4.845953916081883,
+    "peso_classes": "balanced",
+    "gamma": 0.04404014655655694,
+    "reducao": "nenhuma",
+    "normalizacao": "padrao"
+  },
+  "Naive Bayes": {
+    "MCC_CV_optuna": 0.5748368361025571,
+    "var_smoothing": 0.00014842530810141376,
+    "reducao": "nenhuma"
+  },
+  "Floresta aleatória": {
+    "MCC_CV_optuna": 0.7253700816758758,
+    "num_arvores": 58,
+    "criterio": "gini",
+    "profundidade_max": 40,
+    "min_exemplos_split": 4,
+    "min_exemplos_folha": 1,
+    "fracao_atributos": 0.17299995662537804,
+    "peso_classes": "balanced_subsample",
+    "reducao": "rfe",
+    "rfe_num_atributos": 33,
+    "rfe_passo": 3
+  }
+}
