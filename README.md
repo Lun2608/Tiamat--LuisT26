@@ -115,8 +115,8 @@ O notebook foi desenvolvido em **Python 3.13.7**.
 **1. Clone o repositório e crie um ambiente virtual**
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
-cd <NOME-DA-PASTA>
+git clone <https://archive.ics.uci.edu/dataset/254/qsar+biodegradation>
+cd <Tiamat--LuisT26>
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 ```
