@@ -127,7 +127,7 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install numpy pandas matplotlib seaborn scipy scikit-learn optuna shap jupyter
 ```
 
-**3. Baixe os dados** da [página do UCI](https://archive.ics.uci.edu/dataset/254/qsar+biodegradation) e coloque o arquivo em `dados/biodeg.csv`.
+**3. Pegue os dados** o arquivo já está na pasta `dados/`
 
 **4. Abra e execute o notebook**
 
