@@ -171,6 +171,8 @@ Para reproduzir exatamente os resultados, execute todas as células em ordem (*R
 
 Foi usada a IA Claude (Anthropic), via interface de chat, para auxiliar na escolha do conjunto de dados, na coletânea de referências, na construção e correção de células de código, na discussão de pontos teóricos, na sugestão de próximos passos e na revisão final do notebook.
 
+Na montagem do Read Me, foi usada IA para criar a seção `Como executar`, que explica como rodar o projeto em sua própria máquina.
+
 ## Referências principais
 
 1. MANSOURI, K. et al. Quantitative Structure-Activity Relationship models for ready biodegradability of chemicals. *Journal of Chemical Information and Modeling*, v. 53, n. 4, p. 867-878, 2013. Dados: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/254/qsar+biodegradation) (CC BY 4.0).
